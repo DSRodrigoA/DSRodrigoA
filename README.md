@@ -1,6 +1,4 @@
 # Data Science Projects
 
-Primeira edição do arquivo ReadMe
+GitHub destinado para projetos em DS.
 
-
-Segunda edição para teste de commit
